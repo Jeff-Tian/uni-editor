@@ -1,0 +1,34 @@
+{
+  "name": "uni-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeff-Tian/uni-editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeff-Tian/uni-editor/issues"
+  },
+  "homepage": "https://github.com/Jeff-Tian/uni-editor#readme",
+  "dependencies": {
+    "@ckeditor/ckeditor5-basic-styles": "^16.0.0",
+    "@ckeditor/ckeditor5-dev-utils": "^12.0.7",
+    "@ckeditor/ckeditor5-editor-classic": "^16.0.0",
+    "@ckeditor/ckeditor5-essentials": "^16.0.0",
+    "@ckeditor/ckeditor5-paragraph": "^16.0.0",
+    "@ckeditor/ckeditor5-theme-lark": "^16.0.0",
+    "postcss-loader": "3",
+    "raw-loader": "3",
+    "style-loader": "1",
+    "webpack": "4",
+    "webpack-cli": "3"
+  }
+}
