@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Jeff-Tian/uni-editor#readme",
   "dependencies": {
     "@ckeditor/ckeditor5-basic-styles": "^16.0.0",
-    "@ckeditor/ckeditor5-dev-utils": "^12.0.7",
+    "@ckeditor/ckeditor5-dev-utils": "^30.0.0",
     "@ckeditor/ckeditor5-editor-classic": "^16.0.0",
     "@ckeditor/ckeditor5-essentials": "^16.0.0",
     "@ckeditor/ckeditor5-paragraph": "^16.0.0",
